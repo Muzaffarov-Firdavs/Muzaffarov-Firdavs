@@ -40,7 +40,6 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="./techs/postgres.svg" />][postgresql]
 [<img align="left" alt="Visual Studio Code" width="26px" src="./techs/vscode.svg" />][vscode]
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="./techs/intellij.svg" />][jetbrains]
-[<img align="left" alt="Terminal Console" width="26px" src="./techs/console.svg" />][zsh]
 [<img align="left" alt="Powershell" width="26px" src="./techs/powershell.svg" />][powershell]
 [<img align="left" alt="Git" width="26px" src="./techs/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="./techs/github.svg" />][github]
