@@ -38,7 +38,6 @@
 [<img align="left" alt="HTML" width="26px" src="./techs/html.svg" />][html]
 [<img align="left" alt="CSS" width="26px" src="./techs/css.svg" />][css]
 [<img align="left" alt="Python" width="26px" src="./techs/python.svg" />][python]
-[<img align="left" alt="C++" width="26px" src="./techs/c++.svg" />][cplusplus]
 [<img align="left" alt="C" width="26px" src="./techs/c.svg" />][c]
 [<img align="left" alt="C" width="26px" src="./techs/csharp.svg" />][csharp]
 [<img align="left" alt="PostgreSQL" width="26px" src="./techs/postgres.svg" />][postgresql]
@@ -48,7 +47,6 @@
 [<img align="left" alt="Powershell" width="26px" src="./techs/powershell.svg" />][powershell]
 [<img align="left" alt="Git" width="26px" src="./techs/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="./techs/github.svg" />][github]
-[<img align="left" alt="Heroku" width="26px" src="./techs/heroku.svg" />][heroku]
 [<img align="left" alt="Linux" width="26px" src="./techs/linux.svg" />][linux]
 [<img align="left" alt="Windows" width="26px" src="./techs/windows 10.svg" />][windows]
 
@@ -62,7 +60,7 @@
   
 <p align = center>
   <a style="display: inline" href="#">
-    <img align="center" alt="Firdavs Muzaffarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sokhibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Firdavs Muzaffarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muzaffarov-Firdavs&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 <br />
   <a style="display: inline" href="#">
