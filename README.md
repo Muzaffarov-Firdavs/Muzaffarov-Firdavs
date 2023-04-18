@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-    Welcome to Sohib Jaynarov's profile!
+    Welcome to Firdavs Muzaffarov's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -18,7 +18,7 @@
 
 <!-- Badges template - https://github.com/sohibjaynarov -->
 <p align="center">
-    <a href="https://github.com/sohibjaynarov">
+    <a href="https://github.com/Muzaffarov-Firdavs">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/sohibjaynarov/">
@@ -62,7 +62,7 @@
   
 <p align = center>
   <a style="display: inline" href="#">
-    <img align="center" alt="Sohib Jaynarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sokhibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Firdavs Muzaffarov's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sokhibjaynarov&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 <br />
   <a style="display: inline" href="#">
