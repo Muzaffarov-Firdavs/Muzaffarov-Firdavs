@@ -64,7 +64,7 @@
   </a>
 <br />
   <a style="display: inline" href="#">
-    <img align="center" alt="Sohib Jaynarov's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokhibjaynarov&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Sohib Jaynarov's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaffarov-Firdavs&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
   </p>
 
@@ -79,7 +79,7 @@
 
 ## 💻 Last month's activity
 <!-- https://github.com/sohibjaynarov/github-readme-activity-graph -->
-<a href=""><img alt="sohibjaynarov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sokhibjaynarov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="sohibjaynarov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muzaffarov-Firdavs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 
@@ -92,16 +92,13 @@
 [css]: https://www.w3schools.com/css/default.asp
 [python]: https://www.python.org/
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[cplusplus]: https://www.cplusplus.com/
 [c]: https://www.learn-c.org/
 [postgresql]: https://www.postgresql.org/
 [vscode]: https://code.visualstudio.com/
 [jetbrains]: https://www.jetbrains.com/
-[zsh]: https://ohmyz.sh/
 [powershell]: https://docs.microsoft.com/en-us/powershell/
 [git]: https://git-scm.com/
 [github]: https://github.com
-[heroku]: https://www.heroku.com/
 [linux]: https://www.linux.org/
 [windows]: https://www.microsoft.com/en-us/windows
 
